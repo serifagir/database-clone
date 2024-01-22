@@ -1,0 +1,3 @@
+/Users/serifagir/Desktop/database-clone/cmake-build-debug/CMakeFiles/database_clone.dir
+/Users/serifagir/Desktop/database-clone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/serifagir/Desktop/database-clone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
